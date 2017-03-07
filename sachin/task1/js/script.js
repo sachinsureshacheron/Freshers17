@@ -44,7 +44,7 @@ $(document).ready(function(){
 					}
 				}
 				else {
-					$('#page_valid').html('Enter page no from 0 to 10');
+					$('#page_valid').html('Enter page no from 1 to 10');
 				}
 			}
 			else{
